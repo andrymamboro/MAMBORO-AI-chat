@@ -11,5 +11,7 @@ pinned: false
 thumbnail: >-
   https://cdn-uploads.huggingface.co/production/uploads/695119ab2e7cd4c5a9f24343/uoQnOQl5hmSFhhQffn46S.png
 ---
+view on huggingface
+https://huggingface.co/spaces/obitouchiha88/Dolphin-2.9-llama3-8b
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
