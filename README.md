@@ -1,6 +1,5 @@
 ---
 title: Dolphin-2.9-llama3-8b
-emoji: 💻
 colorFrom: pink
 colorTo: green
 sdk: gradio
